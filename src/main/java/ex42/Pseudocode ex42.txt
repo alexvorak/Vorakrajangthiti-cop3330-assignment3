@@ -1,0 +1,9 @@
+Begin
+Setup scanner 
+Store File(exercise42_input.txt) in scanner 
+Use delimiter (",") to separate objects in file
+Establish new ArrayList list
+Print (Last, First, Salary) column headings with formattig
+Loop scanned file and store objects to ArrayList list
+Loop ArrayList list and print stored objects from ArrayList list until end of ArrayList
+End
