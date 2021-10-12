@@ -1,0 +1,13 @@
+Begin
+Declare blank string to change
+Declare reader and writer to modify files
+Store file in reader variable
+Create string to store each line from file
+Replace keyword from file and prepare new output file
+Print statement to allow user to name new output file
+Store user input and assign user input as new output file name
+Create new output file with replaced keyword and user input name
+Catch exception
+Close reader
+Close writer 
+End
