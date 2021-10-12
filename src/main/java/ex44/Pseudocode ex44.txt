@@ -1,0 +1,7 @@
+Begin
+Read and store JSON file in ArrayList
+Create loop to intake user input
+Loop until input is successful
+Recall from ArrayList corresponding item
+Print input with corresponding item information
+End
