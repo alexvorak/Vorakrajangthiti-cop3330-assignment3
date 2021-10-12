@@ -1,0 +1,13 @@
+Begin
+Read input file ("exercise46_input.txt")
+Create new ArrayList listoflines
+Store objects read from file in new ArrayList until end of file
+Close reader
+Create new ArrayList words with objetcs from previous ArrayList
+Loop to seperate ArrayList by white space until end of ArrayList
+Declare variables to keep track of specific word count
+Loop for each specific word until reaching end of ArrayList
+Declare new StringBuilder
+Loop StringBuilder until "*" count matches count from loop in ArrayList
+Print columns and rows 
+End
