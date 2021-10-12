@@ -1,0 +1,21 @@
+@startuml
+
+class WordFrequencyFinder
+{
++in: BufferedReader
++temp: String
++count: int
++count1: int
++count2: int
++main(String[])
++toStars()
+}
+
+class StarCounter
+{
++temp2: StringBuilder
++int: int
++toStars()
+}
+
+@enduml

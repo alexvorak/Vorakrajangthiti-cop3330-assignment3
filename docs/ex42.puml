@@ -1,0 +1,10 @@
+@startuml
+
+class DataFileParser
+{
++main(String[])
++scanner: File
++list: ArrayList
+}
+
+@enduml

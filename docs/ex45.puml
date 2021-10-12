@@ -1,0 +1,11 @@
+@startuml
+
+class WordFinder
+{
++oldContent: String
++reader: BufferedReader
++writer: FileWriter
++main(String[]
+}
+
+@enduml

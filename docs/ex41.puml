@@ -1,0 +1,11 @@
+@startuml
+
+class NameSorter {
++main(String[])
++reader: BufferedReader
++writer: BufferedWriter
+-ObjectCounterMethod(): String
+-count: int
+-str: String
+}
+@enduml

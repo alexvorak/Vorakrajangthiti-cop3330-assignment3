@@ -1,0 +1,17 @@
+@startuml
+'
+
+class WebsiteGenerator
+{
++main(String[])
++sitename: String
++author: String
++JSInput: String
++CSSInput: String
++dir: String
++indexpath: String
++htmldata: String
+
+}
+
+@enduml
