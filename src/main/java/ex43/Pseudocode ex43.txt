@@ -1,0 +1,19 @@
+Begin
+Setup variables for 4 strings from user inputs
+Setup boolean and give value null to help establish directory
+Print statement for 1st user input
+Store in 1st scanner
+Print statement for 2nd user input
+Store in 2nd scanner
+Print statement for 3rd user input
+Store in 3rd scanner
+Print statement for 4th user input
+Store in 4th scanner
+Create new directory for "website"
+Create new file with <title> and <meta> with values from 1st and 2nd stored user input
+If statements for the following:
+	-Creation of both files
+	-Creation of 1 file
+	-Creation of 1 file
+	-Creation of no files
+End
