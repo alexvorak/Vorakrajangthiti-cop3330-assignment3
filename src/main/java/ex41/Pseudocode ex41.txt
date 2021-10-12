@@ -1,0 +1,14 @@
+Begin
+Get File = exercise41_input.txt
+Loop reading lines until end of file
+Sort lines alphabetically
+Write new file = exercise41_output.txt
+Run ObjectCounterMethod 
+	- loop scanner until end of file to store quantity of objects
+	- print "Total amount of x names" where x = total number of names
+Loop writer with previously stored names from file sorted alphabetically including ObjectCounterMethod statements
+Catch IOException
+Close reader 
+Close writer
+End
+
